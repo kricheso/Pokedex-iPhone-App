@@ -133,6 +133,7 @@ class Pokemon {
                 if let attack = dict["attack"] as? Int {
                     
                     self._attack = "\(attack)"
+                    //Noice
                     
                 }
                 
